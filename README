@@ -1,0 +1,7 @@
+# This project contains to folders i) client ii) server
+# switch to both folders and run npm install command in terminal.
+# Node server runs on port 5000, React runs on port 3000.
+# start the both servers using the command npm start.
+# The react app will open in browser,
+# Due to time constraint, I added both fetch jobs and create job in the same page.
+# Add the required fileds to create the job and add a key to get the jobs based on the key we enter.
